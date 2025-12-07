@@ -121,7 +121,15 @@ a:hover {
 }
 
 a:visited {
-  color: #5a3a5a;
+  color: #7a5a7a;
+}
+
+header a:visited {
+  color: #ffffff;
+}
+
+footer a:visited {
+  color: #ffffff;
 }
 
 /* ============================================
