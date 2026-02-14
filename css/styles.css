@@ -308,6 +308,24 @@ section:last-child {
 }
 
 /* ============================================
+   IMAGES
+   ============================================ */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.article-image {
+  max-width: 100%;
+  height: auto;
+  margin: var(--spacing-lg) 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* ============================================
    BLOCKQUOTES & CALLOUTS
    ============================================ */
 
